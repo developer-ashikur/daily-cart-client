@@ -1,0 +1,15 @@
+.sidebar ul li{
+    padding: 10px;
+    transition: .4s;
+}
+.sidebar ul li:hover{
+    background-color: #2d524a;
+}
+.sidebar ul li a{
+    display: inline-block;
+    color: white;
+    text-decoration: none;
+}
+.sidebar ul li img{
+    width: 30px;
+}
