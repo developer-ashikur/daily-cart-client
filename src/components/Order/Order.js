@@ -6,7 +6,7 @@ const Order = ({order}) => {
         <>
             <tr>
                 <td>{productName}-{weight}</td>
-                <td>1</td>
+                <td>{order.orderTime}</td>
                 <td>${price}</td>
             </tr>
         </>

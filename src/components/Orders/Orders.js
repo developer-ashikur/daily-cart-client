@@ -28,7 +28,7 @@ const Orders = () => {
                     <thead>
                         <tr>
                             <th scope="col">Description</th>
-                            <th scope="col">Quantity</th>
+                            <th scope="col">Date</th>
                             <th scope="col">Price</th>
                         </tr>
                     </thead>
